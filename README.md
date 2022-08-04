@@ -1,5 +1,5 @@
 - 👦Info About Me
-- 신승훈 (Seunghoon Shin
+- 신승훈 (Seunghoon Shin)
 - 🏫 Korea univ. of Nationa Maritime & Ocean 'Department of Artificial Intelligence Engineering 18'
 
 <h2> 🛠 Skills </h2>
