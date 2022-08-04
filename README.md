@@ -6,9 +6,9 @@
 
 <h2> 🔨 Tools & controls </h2>
 
-<h2> 🛠 Activities </h2>
+<h2> 🎓 Activities </h2>
 
-
+<h2> 🏅 Award </h2>
 
 <h2>🎥 Social </h2>
 
