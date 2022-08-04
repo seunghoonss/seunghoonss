@@ -2,7 +2,7 @@
 - 신승훈 (Seunghoon Shin)
 - 🏫 Korea univ. of National Maritime & Ocean 'Department of Artificial Intelligence Engineering 18'
 
-<h2> 🎥 Socials </h2>
+<h2> 🎥 Social </h2>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
 ![YouTube Video Likes](https://img.shields.io/youtube/likes/yfIossqi6xc?style=social)
@@ -16,6 +16,6 @@
 
 <h2> 🎓 Activities </h2>
 
-<h2> 🏅 Awards </h2>
+<h2> 🏅 Award </h2>
 
 
