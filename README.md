@@ -1,0 +1,4 @@
+- 👦Introduce Me
+- 신승훈 (Seunghoon Shin
+- 🏫 Korea univ. of Nationa Maritime & Ocean 'Department of Artificial Intelligence Engineering 18'
+- @https://mail.google.com/mail/u/0/#inbox 
