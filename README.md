@@ -1,7 +1,7 @@
 #### 승훈 (seunghoonss)
 
 ## 👦🏻 Info About Me
-- 신승훈 (Seunghoon Shin)
+<h1> 신승훈 (Seunghoon Shin) <h1>
 - 🏫 Korea univ. of National Maritime & Ocean 'Department of Artificial Intelligence Engineering 18'
 
 # 카카오맵을 활용한 지도 API Web
