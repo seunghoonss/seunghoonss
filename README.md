@@ -42,7 +42,7 @@ https://seunghoon.neocities.org/
 <h2> 🎓 Activities </h2>
 
 - Big Data Analytics Association. of Data Analysis Foundation
-- Mentor of Education Mentoring of District Office
+- Mentor of Education Mentoring of District Office Univ
 
 <h2> 🏅 Award </h2>
 
