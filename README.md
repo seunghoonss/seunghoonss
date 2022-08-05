@@ -43,6 +43,7 @@ https://seunghoon.neocities.org/
 
 - Big Data Analytics Assoc. of Data Analysis Foundation
 - Mentor of Education Mentoring of University District Office
+- College Student ICT Supporters of Busan Information Promotion Agency
 
 <h2> 🏅 Award </h2>
 
