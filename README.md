@@ -41,5 +41,5 @@
 
 <h2> 🏅 Award </h2>
 
-- 3D Modeling Design Division of the Idea Contest 'The grand prize'
+- 3D Modeling Design Division of the Idea Contest 'The Grand Prize'
 
