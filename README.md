@@ -40,5 +40,5 @@
 <h2> 🎓 Activities </h2>
 
 <h2> 🏅 Award </h2>
-
+3D Modeling Design Division of the Idea Contest - the grand prize
 
