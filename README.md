@@ -1,6 +1,6 @@
 #### 승훈 (seunghoonss)
 
-<h1> 👦 Info About Me <h1>
+### 👦🏻 Info About Me
 신승훈 (Seunghoon Shin)
 🏫 Korea univ. of National Maritime & Ocean 'Department of Artificial Intelligence Engineering 18'
 
