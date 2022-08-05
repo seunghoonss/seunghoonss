@@ -40,6 +40,7 @@ https://seunghoon.neocities.org/
 <h2> 🔨 Tools & controls </h2>
 
 <h2> 🎓 Activities </h2>
+
 - Big Data Analytics Association. of Data Analysis Foundation
 
 <h2> 🏅 Award </h2>
