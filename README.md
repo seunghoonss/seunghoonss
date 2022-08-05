@@ -21,7 +21,7 @@
 13. 도보 시간 계산
 14. 자전거 시간 계산
 15. Kakao Map Api 사용
-- 2022 창원 빅데이터 공모전 프로젝트 입니다.
+- 2022 창원 빅데이터 공모전 프로젝트
 
 ![image](https://user-images.githubusercontent.com/109809978/183011757-cc2f5cf8-5195-48ed-8f90-568ee43c10da.png)
 https://seunghoon.neocities.org/
