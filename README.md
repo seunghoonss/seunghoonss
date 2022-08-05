@@ -14,8 +14,12 @@
 8. 마커에 윈도우 표시하기
 9. 클러스터 마커에 텍스트 표시하기
 10. 원의 반경 계산하기
-11. kakao map api 사용
+11. 도보 시간 계산하기
+12. 자전거 시간 계산하기
+13. kakao map api 사용
 - 2022 창원 빅데이터 공모전 프로젝트 입니다.
+
+![image](https://user-images.githubusercontent.com/109809978/183011757-cc2f5cf8-5195-48ed-8f90-568ee43c10da.png)
 
 
 
