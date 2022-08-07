@@ -4,6 +4,39 @@
 - 신승훈 (Seunghoon Shin)
 - 🏫 Korea univ. of National Maritime & Ocean 'Department of Artificial Intelligence Engineering 18'
 
+<h2> 🎥 Social </h2>
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
+![YouTube Video Likes](https://img.shields.io/youtube/likes/yfIossqi6xc?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
+![YouTube Video Views](https://img.shields.io/youtube/views/yfIossqi6xc?style=social)
+![YouTube Video Comments](https://img.shields.io/youtube/comments/p8sBwfjjWaM?style=social)
+
+<h2> 🛠 Skills </h2>
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a> 
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+
+
+
+<h2> 🔨 Tools & controls </h2>
+
+<h2> 🎓 Activities </h2>
+
+- Big Data Analytics Assoc. of Data Analysis Foundation
+- Mentor of Education Mentoring of University District Office
+- College Student ICT Supporters of Busan Information Promotion Agency
+
+<h2> 🏅 Award </h2>
+
+- 3D Modeling Design Division of the Idea Contest 'The Grand Prize'
+
 # 카카오맵을 활용한 지도 API Web
 ### 주요기능
 1. 길찾기
@@ -25,38 +58,4 @@
 
 ![image](https://user-images.githubusercontent.com/109809978/183011757-cc2f5cf8-5195-48ed-8f90-568ee43c10da.png)
 https://seunghoon.neocities.org/
-
-
-<h2> 🎥 Social </h2>
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmHMbfsQoWdjlxS6e9wD9cg?style=social) // pyton
-![YouTube Video Likes](https://img.shields.io/youtube/likes/yfIossqi6xc?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
-![YouTube Video Views](https://img.shields.io/youtube/views/yfIossqi6xc?style=social)
-![YouTube Video Comments](https://img.shields.io/youtube/comments/p8sBwfjjWaM?style=social)
-
-<h2> 🛠 Skills </h2>
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> // python
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>           // c
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>   // c++
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-
-
-
-<h2> 🔨 Tools & controls </h2>
-
-<h2> 🎓 Activities </h2>
-
-- Big Data Analytics Assoc. of Data Analysis Foundation
-- Mentor of Education Mentoring of University District Office
-- College Student ICT Supporters of Busan Information Promotion Agency
-
-<h2> 🏅 Award </h2>
-
-- 3D Modeling Design Division of the Idea Contest 'The Grand Prize'
 
