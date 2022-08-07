@@ -4,6 +4,7 @@
 - 신승훈 (Seunghoon Shin)
 - 🏫 Korea univ. of National Maritime & Ocean 'Department of Artificial Intelligence Engineering 18'
 
+
 <h2> 🎥 Social </h2>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
@@ -11,6 +12,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
 ![YouTube Video Views](https://img.shields.io/youtube/views/yfIossqi6xc?style=social)
 ![YouTube Video Comments](https://img.shields.io/youtube/comments/p8sBwfjjWaM?style=social)
+
 
 <h2> 🛠 Skills </h2>
 
@@ -24,8 +26,15 @@
 <img src="https://img.shields.io/badge/Mysql-F4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 
 
-
 <h2> 🔨 Tools & controls </h2>
+
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
 
 <h2> 🎓 Activities </h2>
 
