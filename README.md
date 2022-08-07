@@ -29,7 +29,7 @@ https://seunghoon.neocities.org/
 
 <h2> 🎥 Social </h2>
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmHMbfsQoWdjlxS6e9wD9cg?style=social) // pyton
 ![YouTube Video Likes](https://img.shields.io/youtube/likes/yfIossqi6xc?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
 ![YouTube Video Views](https://img.shields.io/youtube/views/yfIossqi6xc?style=social)
@@ -37,9 +37,15 @@ https://seunghoon.neocities.org/
 
 <h2> 🛠 Skills </h2>
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> // python
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>           // c
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>   // c++
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+
 
 
 <h2> 🔨 Tools & controls </h2>
