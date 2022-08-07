@@ -4,7 +4,7 @@
 - 신승훈 (Seunghoon Shin)
 - 🏫 Korea univ. of National Maritime & Ocean 'Department of Artificial Intelligence Engineering 18'
  
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=https://mail.google.com/mail/u/0/"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ssh3962@g.kmou.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
 <a href="https://mail.naver.com/"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white&link="/></a>
 <a href="https://www.instagram.com/gnstls_/?igshid=YmMyMTA2M2Y"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="/></a>
 
