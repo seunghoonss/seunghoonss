@@ -37,6 +37,9 @@ https://seunghoon.neocities.org/
 
 <h2> 🛠 Skills </h2>
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/javascript-CB3837?style=flat-square&logo=Javascript&logoColor=white"/></a>
+
 <h2> 🔨 Tools & controls </h2>
 
 <h2> 🎓 Activities </h2>
