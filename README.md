@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-F4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 
 
 <h2> 🔨 Tools & controls </h2>
@@ -28,6 +29,7 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe PhotoShop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/YouTube Studio-FF0000?style=flat-square&logo=youtubestudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
