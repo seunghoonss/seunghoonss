@@ -3,6 +3,9 @@
 ## 👦🏻 Info About Me
 - 신승훈 (Seunghoon Shin)
 - 🏫 Korea univ. of National Maritime & Ocean 'Department of Artificial Intelligence Engineering 18'
+ 
+<a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/gnstls_?igshid=YmMyMTA2M2Y="/></a>
+
 
 
 <h2> 🎥 Social </h2>
@@ -42,11 +45,15 @@
 - Mentor of Education Mentoring of University District Office
 - College Student ICT Supporters of Busan Information Promotion Agency
 
+
 <h2> 🏅 Award </h2>
 
 - 3D Modeling Design Division of the Idea Contest 'The Grand Prize'
 
-# 카카오맵을 활용한 지도 API Web
+
+<h2> ⚙ Projects </h2>
+
+## 카카오맵을 활용한 지도 API Web
 ### 주요기능
 1. 길찾기
 2. 지도 줌 컨트롤
