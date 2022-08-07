@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 
-<h2> 🎥 Social </h2>
+<h2> 🎥 Socials </h2>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
 ![YouTube Video Likes](https://img.shields.io/youtube/likes/yfIossqi6xc?style=social)
