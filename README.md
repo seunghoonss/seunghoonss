@@ -9,15 +9,6 @@
 <a href="https://instagram.com/gnstls_?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="/></a>
 
 
-<h2> 🎥 Social </h2>
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
-![YouTube Video Likes](https://img.shields.io/youtube/likes/yfIossqi6xc?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
-![YouTube Video Views](https://img.shields.io/youtube/views/yfIossqi6xc?style=social)
-![YouTube Video Comments](https://img.shields.io/youtube/comments/p8sBwfjjWaM?style=social)
-
-
 <h2> 🛠 Skills </h2>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -38,6 +29,15 @@
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
+
+<h2> 🎥 Social </h2>
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
+![YouTube Video Likes](https://img.shields.io/youtube/likes/yfIossqi6xc?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCmHMbfsQoWdjlxS6e9wD9cg?style=social)
+![YouTube Video Views](https://img.shields.io/youtube/views/yfIossqi6xc?style=social)
+![YouTube Video Comments](https://img.shields.io/youtube/comments/p8sBwfjjWaM?style=social)
 
 
 <h2> 🎓 Activities </h2>
