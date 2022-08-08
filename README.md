@@ -1,4 +1,4 @@
-## 승훈 (seunghoons
+## 승훈 (seunghoonss)
 
 ## 👦🏻 Info About Me
 - 신승훈 (Seunghoon Shin)
