@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-F4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/YouTube-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 
 
 <h2> 🔨 Tools & controls </h2>
