@@ -80,6 +80,3 @@
 https://seunghoon.neocities.org/
 
 ![image](https://user-images.githubusercontent.com/109809978/183011757-cc2f5cf8-5195-48ed-8f90-568ee43c10da.png)
-
-https://seunghoon.neocities.org/
-
