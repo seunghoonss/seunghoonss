@@ -59,6 +59,7 @@
 
 
 <h2> ⚙ Projects </h2>
+
 ## ATmega128A를 이용한 Character LCD Embedded system
 ### 주요기능
 모드 1: 광고문 출력 모드
