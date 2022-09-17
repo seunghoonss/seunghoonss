@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/QGIS-5C2D91?style=flat-square&logo=qgis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Androdi Stduio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
+
 
 
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/></a>
