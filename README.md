@@ -59,6 +59,44 @@
 
 
 <h2> ⚙ Projects </h2>
+## ATmega128A를 이용한 Character LCD Embedded system
+### 주요기능
+모드 1: 광고문 출력 모드
+모드 2: 스탑워치 모드
+모드 3: 디지털 전압계 모드
+**[모드1]**
+- 사전에 입력한 광고문 모드 전환 Tact SW 1, 2 모드 전환 및 Tact SW 3 모드별 기능 구현
+
+https://user-images.githubusercontent.com/109809978/190866170-24ab008b-216e-4e16-b0a5-0e1ff0428072.mp4
+
+- UART 통신을 통해 광고문 모드 전환 Tact SW 1, 2, 모드 전환 및 Tact SW 3 모드별 기능 구현
+
+https://user-images.githubusercontent.com/109809978/190866149-fdd6e4b0-8edb-4a78-be2b-46e5bae43a34.mp4
+
+
+**[모드2]**
+- Tact SW 3 모드별 기능 구현 (스탑워치 모드)
+ 
+https://user-images.githubusercontent.com/109809978/190866282-9dea278e-472c-4bc8-964f-e802a5565fb3.mp4
+
+- Tact SW 1, 2 모드 전환 (광고 출력 모드, 디지털 전압계 모드)
+ 
+https://user-images.githubusercontent.com/109809978/190866190-17c34f0f-890f-42f8-bbb9-3fc187be2346.mp4
+
+**[모드3]**
+- Tact SW 3 모드별 기능 구현 (디지털 전압계 모드)
+
+https://user-images.githubusercontent.com/109809978/190866310-25475e12-21c7-42af-b931-d8568207acbb.mp4
+
+- Tact SW 1, 2 모드 전환 (스탑워치 모드, 광고 출력 모드)
+ 
+https://user-images.githubusercontent.com/109809978/190866504-004b53d0-dc8f-4c18-a732-b9f678a7e839.mp4
+
+**[전체]**
+- 전체 모드 동작 시연
+ 
+https://user-images.githubusercontent.com/109809978/190866519-f26ee60e-ff01-445b-ae47-767a3ffd0d9b.mp4
+
 
 ## 카카오맵을 활용한 지도 API Web
 ### 주요기능
