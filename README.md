@@ -59,8 +59,7 @@
 
 
 <h2> ⚙ Projects </h2>
-
-> ## 카카오맵을 활용한 지도 API Web
+## 카카오맵을 활용한 지도 API Web
 ### 주요기능
 1. 길찾기
 2. 지도 줌 컨트롤
@@ -85,8 +84,7 @@
 https://seunghoon.neocities.org/
 
 
-
-> ## ATmega128A를 이용한 Character LCD Embedded system
+## ATmega128A를 이용한 Character LCD Embedded system
 ### 주요기능
 1. 광고문 출력 모드
 2. 스탑워치 모드
