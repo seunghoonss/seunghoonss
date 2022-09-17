@@ -87,9 +87,9 @@ https://seunghoon.neocities.org/
 
 ## ATmega128A를 이용한 Character LCD Embedded system
 ### 주요기능
-- 모드 1: 광고문 출력 모드
-- 모드 2: 스탑워치 모드
-- 모드 3: 디지털 전압계 모드
+1. 모드 1: 광고문 출력 모드
+2. 모드 2: 스탑워치 모드
+3. 모드 3: 디지털 전압계 모드
 
 **[모드1]**
 - 사전에 입력한 광고문 모드 전환 Tact SW 1, 2 모드 전환 및 Tact SW 3 모드별 기능 구현
