@@ -96,7 +96,7 @@ https://seunghoon.neocities.org/
 
 https://user-images.githubusercontent.com/109809978/190866170-24ab008b-216e-4e16-b0a5-0e1ff0428072.mp4
 
-- UART 통신을 통해 광고문 모드 전환 Tact SW 1, 2, 모드 전환 및 Tact SW 3 모드별 기능 구현
+- UART 통신을 통해 광고문 모드 전환 Tact SW 1, 2 모드 전환 및 Tact SW 3 모드별 기능 구현
 
 https://user-images.githubusercontent.com/109809978/190866149-fdd6e4b0-8edb-4a78-be2b-46e5bae43a34.mp4
 
