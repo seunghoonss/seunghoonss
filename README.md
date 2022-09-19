@@ -61,7 +61,7 @@
 <h2> ⚙ Projects </h2>
 
 ## 카카오맵을 활용한 지도 API Web
-- 2022 창원 빅데이터 공모전 프로젝트 입니다.
+- [ ] 2022 창원 빅데이터 공모전 프로젝트 입니다
 
 ### 주요기능
 1. 길찾기
@@ -80,19 +80,18 @@
 14. 자전거 시간 계산
 15. Kakao Map Api 사용
 
-- [ ] 2022 창원 빅데이터 공모전 프로젝트 입니다.
-
 ![image](https://user-images.githubusercontent.com/109809978/183011757-cc2f5cf8-5195-48ed-8f90-568ee43c10da.png)
 
 https://seunghoon.neocities.org/
 
 
 ## ATmega128A를 이용한 Character LCD
+- [ ] 2021 인공지능공학부 Embedded system 프로젝트 입니다
+
 ### 주요기능
 1. 광고문 출력 모드
 2. 스탑워치 모드
 3. 디지털 전압계 모드
-- [ ] 2021 인공지능공학부 Embedded system 프로젝트 입니다.
 
 **[전체 모드 동작 시연]**
 - UART 통신을 통해 광고문 모드 전환 Tact SW 1, 2 모드 전환 및 Tact SW 3 모드별 기능 구현
@@ -101,6 +100,8 @@ https://user-images.githubusercontent.com/109809978/190866519-f26ee60e-ff01-445b
 
 
 ## Arduino를 이용한 음주운전 방지 자율주행 RC Car
+- [ ]  2021 인공지능공학부 Adventure Design 프로젝트 입니다.
+
 ### 주요기능
 1. 초음파 센서를 이용한 충돌 방지 시스템
 2. 음주 측정 센서를 이용한 음주운전 방지 시스템
@@ -108,7 +109,6 @@ https://user-images.githubusercontent.com/109809978/190866519-f26ee60e-ff01-445b
 4. 모터 드라이브를 이용한 DC 모터 제어 시스템
 5. Digit Shield를 이용한 음주 측정 값 확인
 
-- [ ]  2021 인공지능공학부 Adventure Design 프로젝트 입니다.
 
 **[동작 구동 시연]**
 - 장애물과 일정 거리만큼 가까워지면 RC Car는 정지한 후 방향 전환하여 장애물을 회피
