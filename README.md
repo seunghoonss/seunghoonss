@@ -85,13 +85,39 @@
 https://seunghoon.neocities.org/
 
 
-## ATmega128A를 이용한 Character LCD Embedded system
+## ATmega128A를 이용한 Character LCD
 ### 주요기능
 1. 광고문 출력 모드
 2. 스탑워치 모드
 3. 디지털 전압계 모드
 
+- 2021 인공지능공학부 Embedded system 프로젝트 입니다.
+
 **[전체 모드 동작 시연]**
 - UART 통신을 통해 광고문 모드 전환 Tact SW 1, 2 모드 전환 및 Tact SW 3 모드별 기능 구현
 
 https://user-images.githubusercontent.com/109809978/190866519-f26ee60e-ff01-445b-ae47-767a3ffd0d9b.mp4
+
+
+## Arduino를 이용한 음주운전 방지 자율주행 RC Car
+### 주요기능
+1. 초음파 센서를 이용한 충돌 방지 시스템
+2. 음주 측정 센서를 이용한 음주운전 방지 시스템
+3. 능동 부저를 이용한 운전 불가 상태 알림 시스템
+4. 모터 드라이브를 이용한 DC 모터 제어 시스템
+5. Digit Shield를 이용한 음주 측정 값 확인
+
+- 2021 인공지능공학부 Adventure Design 프로젝트 입니다.
+
+**[동작 구동 시연]**
+- 장애물과 일정 거리만큼 가까워지면 RC Car는 정지한 후 방향 전환하여 장애물을 회피
+- 음주 측정 센서에서 기준치 이상의 알코올이 측정되면 동작 중이던 모터가 멈추면서 부저가 울려 음주상태를 알림
+
+https://user-images.githubusercontent.com/109809978/191020510-63711f08-ce53-41d3-923f-4d77957a1335.mp4
+
+
+**[Model Test 시연]**
+- 음주운전 방지 자율주행 RC Car 주행 Test
+
+https://user-images.githubusercontent.com/109809978/191022535-5e044557-4a89-4936-b104-7dfce05c583d.mp4
+
