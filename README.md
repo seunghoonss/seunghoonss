@@ -85,20 +85,6 @@
 https://seunghoon.neocities.org/
 
 
-## ATmega128A를 이용한 Character LCD
-- [ ] 2021 인공지능공학부 Embedded system Project
-
-### 주요기능
-1. 광고문 출력 모드
-2. 스탑워치 모드
-3. 디지털 전압계 모드
-
-**[전체 모드 동작 시연]**
-- UART 통신을 통해 광고문 모드 전환 Tact SW 1, 2 모드 전환 및 Tact SW 3 모드별 기능 구현
-
-https://user-images.githubusercontent.com/109809978/190866519-f26ee60e-ff01-445b-ae47-767a3ffd0d9b.mp4
-
-
 
 ## Arduino를 이용한 음주운전 방지 자율주행 RC Car
 - [ ]  2021 인공지능공학부 Adventure Design Project
@@ -122,4 +108,19 @@ https://user-images.githubusercontent.com/109809978/191020510-63711f08-ce53-41d3
 - 음주운전 방지 자율주행 RC Car 주행 Test
 
 https://user-images.githubusercontent.com/109809978/191022535-5e044557-4a89-4936-b104-7dfce05c583d.mp4
+
+
+
+## ATmega128A를 이용한 Character LCD
+- [ ] 2021 인공지능공학부 Embedded system Project
+
+### 주요기능
+1. 광고문 출력 모드
+2. 스탑워치 모드
+3. 디지털 전압계 모드
+
+**[전체 모드 동작 시연]**
+- UART 통신을 통해 광고문 모드 전환 Tact SW 1, 2 모드 전환 및 Tact SW 3 모드별 기능 구현
+
+https://user-images.githubusercontent.com/109809978/190866519-f26ee60e-ff01-445b-ae47-767a3ffd0d9b.mp4
 
