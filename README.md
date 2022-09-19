@@ -122,4 +122,5 @@ https://user-images.githubusercontent.com/109809978/191022535-5e044557-4a89-4936
 **[전체 모드 동작 시연]**
 - UART 통신을 통해 광고문 모드 전환 Tact SW 1, 2 모드 전환 및 Tact SW 3 모드별 기능 구현
 
-https://user-images.githubusercontent.com/109809978/191027793-7b2ae519-839b-45e9-a9f6-481dff26ccbe.mp4
+[https://user-images.githubusercontent.com/109809978/191027793-7b2ae519-839b-45e9-a9f6-481dff26ccbe.mp4
+](https://user-images.githubusercontent.com/109809978/191028129-6301ce95-d08c-46ac-917b-b70ba5e1cf9b.mp4)
