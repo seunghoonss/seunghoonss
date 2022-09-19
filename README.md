@@ -94,6 +94,7 @@ https://seunghoon.neocities.org/
 - 2021 인공지능공학부 Embedded system 프로젝트 입니다.
 
 **[전체 모드 동작 시연]**
+
 UART 통신을 통해 광고문 모드 전환 Tact SW 1, 2 모드 전환 및 Tact SW 3 모드별 기능 구현
 
 https://user-images.githubusercontent.com/109809978/190866519-f26ee60e-ff01-445b-ae47-767a3ffd0d9b.mp4
