@@ -107,7 +107,7 @@ https://user-images.githubusercontent.com/109809978/190866519-f26ee60e-ff01-445b
 4. 모터 드라이브를 이용한 DC 모터 제어 시스템
 5. Digit Shield를 이용한 음주 측정 값 확인
 
-- 2021 인공지능공학부 Adventure Design 프로젝트 입니다.
+- [ ]  2021 인공지능공학부 Adventure Design 프로젝트 입니다.
 
 **[동작 구동 시연]**
 - 장애물과 일정 거리만큼 가까워지면 RC Car는 정지한 후 방향 전환하여 장애물을 회피
