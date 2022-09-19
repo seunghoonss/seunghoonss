@@ -61,7 +61,7 @@
 <h2> ⚙ Projects </h2>
 
 ## 카카오맵을 활용한 지도 API Web
-- [ ] 2022 창원 빅데이터 공모전 프로젝트 입니다
+- [ ] 2022 창원 빅데이터 공모전 Project
 
 ### 주요기능
 1. 길찾기
@@ -86,7 +86,7 @@ https://seunghoon.neocities.org/
 
 
 ## ATmega128A를 이용한 Character LCD
-- [ ] 2021 인공지능공학부 Embedded system 프로젝트
+- [ ] 2021 인공지능공학부 Embedded system Project
 
 ### 주요기능
 1. 광고문 출력 모드
@@ -100,7 +100,7 @@ https://user-images.githubusercontent.com/109809978/190866519-f26ee60e-ff01-445b
 
 
 ## Arduino를 이용한 음주운전 방지 자율주행 RC Car
-- [ ]  2021 인공지능공학부 Adventure Design 프로젝트 입니다.
+- [ ]  2021 인공지능공학부 Adventure Design Project
 
 ### 주요기능
 1. 초음파 센서를 이용한 충돌 방지 시스템
