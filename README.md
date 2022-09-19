@@ -86,7 +86,7 @@ https://seunghoon.neocities.org/
 
 
 ## ATmega128A를 이용한 Character LCD
-- [ ] 2021 인공지능공학부 Embedded system 프로젝트 입니다
+- [ ] 2021 인공지능공학부 Embedded system 프로젝트
 
 ### 주요기능
 1. 광고문 출력 모드
