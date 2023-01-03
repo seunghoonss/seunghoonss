@@ -56,7 +56,8 @@
 <h2> 🏅 Award </h2>
 
 - 3D Modeling Design Division of the Idea Contest 'The Grand Prize'
-
+- 2022 Student Big Data Analysis Competition 'Encouragement Award'
+- Cheonan City Data-Based Visualization Idea Gong M-Joner 'Excellent Award'
 
 <h2> ⚙ Projects </h2>
 
