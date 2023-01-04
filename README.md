@@ -50,6 +50,7 @@
 
 - Big Data Analytics Assoc. of Data Analysis Foundation
 - Mentor of Education Mentoring of University District Office
+- Clean Energy Policy Promotion Youth Supporters Busan City Hall
 - College Student ICT Supporters of Busan Information Promotion Agency
 
 
