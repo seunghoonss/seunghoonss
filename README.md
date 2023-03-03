@@ -63,6 +63,7 @@
 
 
 <h2> ⚖ Patent </h2>
+
 - 국문 : 유모차용 자동제동과 동력보조 장치 및 모바일 앱 
 - 영문 : Automatic Braking And Power Assist Device for Stroller With Mobile App
 
