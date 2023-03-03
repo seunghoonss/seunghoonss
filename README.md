@@ -87,7 +87,8 @@
 6. 분석 알고리즘 및 방법론 구현
 7. 최종 본선 발표
 
-https://drive.google.com/drive/u/0/my-drive
+![image](https://user-images.githubusercontent.com/109809978/222812372-5ce6853a-02b2-4256-916c-79ba630ed4bb.png)
+
 
 ## 딥러닝을 활용한 발달장애 조기진단 AI 시스템
 - [ ] 2023 사회복지 더하기 디지털기술 아이디어 공모전 '우수상'
@@ -101,6 +102,8 @@ https://drive.google.com/drive/u/0/my-drive
 4. 분석 알고리즘 및 방법론 구현
 5. Deep Learing Model 프로그래밍
 
+![image](https://user-images.githubusercontent.com/109809978/222812298-818dd903-f026-45df-b74a-9923386c0f7d.png)
+
 
 ## 유성구 내 MZ세대 소비량에 영향을 끼치는 요인 분석 및 경제 활성화 방향 제시
 - [ ] 2022년도 학생 빅데이터 분석 경진대회 '장려상'
@@ -109,10 +112,12 @@ https://drive.google.com/drive/u/0/my-drive
 
 ### 역할
 1. 아이디어 도출 및 기획
-2, SQL쿼리를 통해 데이터 취합
+2. SQL쿼리를 통해 데이터 취합
 3. 분석 자료 구성 및 전처리
 4. 분석 알고리즘 및 방법론 구현
 5. MAchine Learning Model 프로그래밍
+
+![image](https://user-images.githubusercontent.com/109809978/222811711-508c3895-909f-4221-8d5d-ed15d8105cf5.png)
 
 
 `2. 제어계측 및 Embedded 시스템`
