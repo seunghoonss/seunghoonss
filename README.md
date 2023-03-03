@@ -124,32 +124,6 @@
 - https://github.com/seunghoonss/3D-Modeling-Design_Inventor
 
 
-## 카카오맵을 활용한 지도 API Web
-- [ ] 2022 창원 빅데이터 공모전 Project
-
-### 주요기능
-1. 길찾기
-2. 지도 줌 컨트롤
-3. 현재 위치 보여주기
-4. 현재 위치 좌표 표시
-5. 일반지도와 스카이뷰
-6. 지도에 교통정보 표시
-7. 지도위 로드뷰 생성
-8. 여러개 마커 생성
-9. 마커에 윈도우 표시
-10. 마커 클러스터 생성 및 표시
-11. 클러스터 마커에 텍스트 표시
-12. 원의 반경 계산
-13. 도보 시간 계산
-14. 자전거 시간 계산
-15. Kakao Map Api 사용
-
-![image](https://user-images.githubusercontent.com/109809978/183011757-cc2f5cf8-5195-48ed-8f90-568ee43c10da.png)
-
-https://seunghoon.neocities.org/
-
-
-
 ## Arduino를 이용한 음주운전 방지 자율주행 RC Car
 - [ ]  2021 인공지능공학부 Adventure Design Project
 
@@ -188,3 +162,28 @@ https://user-images.githubusercontent.com/109809978/191022535-5e044557-4a89-4936
 
 [https://user-images.githubusercontent.com/109809978/191027793-7b2ae519-839b-45e9-a9f6-481dff26ccbe.mp4
 ](https://user-images.githubusercontent.com/109809978/191028129-6301ce95-d08c-46ac-917b-b70ba5e1cf9b.mp4)
+
+
+## 카카오맵을 활용한 지도 API Web
+- [ ] 2022 창원 빅데이터 공모전 Project
+
+### 주요기능
+1. 길찾기
+2. 지도 줌 컨트롤
+3. 현재 위치 보여주기
+4. 현재 위치 좌표 표시
+5. 일반지도와 스카이뷰
+6. 지도에 교통정보 표시
+7. 지도위 로드뷰 생성
+8. 여러개 마커 생성
+9. 마커에 윈도우 표시
+10. 마커 클러스터 생성 및 표시
+11. 클러스터 마커에 텍스트 표시
+12. 원의 반경 계산
+13. 도보 시간 계산
+14. 자전거 시간 계산
+15. Kakao Map Api 사용
+
+![image](https://user-images.githubusercontent.com/109809978/183011757-cc2f5cf8-5195-48ed-8f90-568ee43c10da.png)
+
+https://seunghoon.neocities.org/
