@@ -67,7 +67,7 @@
 - [ ] 2022년도 학생 빅데이터 분석 경진대회 '장려상'
 
 ### 주요기능
-[[한국해양대 김은주] 빅데이터분석_경진대회_발표자료(수정).pptx](https://github.com/seunghoonss/seunghoonss/files/10884510/_._.pptx)
+
 
 
 ## 카카오맵을 활용한 지도 API Web
