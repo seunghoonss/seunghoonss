@@ -117,7 +117,7 @@
 `2. 제어계측 및 Embedded 시스템`
 
 ## 자동 제동장치를 탑재한 전동 유모차
-- [ ]  2022 인공지능공학부 Capstone Design Project
+- [ ]  2022 인공지능공학부 Capstone Design Project 'A+ Grade'
 
 본 발명이 이루고자 하는 기술적 과제는 유모차 사용자가 유모차 손잡이를 놓쳤을 경우에 발생할 수 있는 유모차 미끄러짐, 추락, 및 충돌과 관련된 안전사고를 방지할 수 있도록 하는 자동 제동 장치를 제공하는데 그 목적이 있다.
  다른 기술적 과제로는 경사로 및 평지에서의 유모차 주행을 용이하게 할 수 있도록 하는 동력 보조 장치를 제공하는데 그 목적이 있다. 또 앱을 통해 유모차를 제어 할 수 있게 하여 사용자의 편의성을 향상 시키는 것을 도모한다.
@@ -168,7 +168,7 @@ https://user-images.githubusercontent.com/109809978/222803026-7c22dd65-3a7c-457b
 
 
 ## Arduino를 이용한 음주운전 방지 자율주행 RC Car
-- [ ]  2021 인공지능공학부 Adventure Design Project
+- [ ]  2021 인공지능공학부 Adventure Design Project 'A+ Grade'
 
 ### 주요기능
 1. 초음파 센서를 이용한 충돌 방지 시스템
@@ -193,7 +193,7 @@ https://user-images.githubusercontent.com/109809978/191022535-5e044557-4a89-4936
 
 
 ## ATmega128A를 이용한 Character LCD
-- [ ] 2021 인공지능공학부 Embedded system Project
+- [ ] 2021 인공지능공학부 Embedded system Project 'A+ Grade'
 
 ### 주요기능
 1. 광고문 출력 모드
