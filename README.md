@@ -52,6 +52,7 @@
 - Mentor of Education Mentoring of University District Office
 - Clean Energy Policy Promotion Youth Supporters Busan City Hall
 - College Student ICT Supporters of Busan Information Promotion Agency
+- Korea Ocean Marine Equipment Research Institute National Labor Scholarship Student
 
 
 <h2> 🏆 Award </h2>
