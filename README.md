@@ -114,19 +114,6 @@
 5. MAchine Learning Model 프로그래밍
 
 
-## 항공모함 3D CAD 설계 및 모델링
-- [ ] 2021 고교-대학연합 아이디어 공모전 '최우수상'
-
-항공기를 탑재하고 발착시키는 함선으로 바다 위의 움직이는 공항 항공모함. 갑판 위에 활주로와 함의 상층부를 평탄한 비행갑판으로 만들고, 비행기의 발착이나 격납에 장애가 되는 함교나 굴뚝같은 구조물은 가급적 현측 밖으로 나가게 설계 모델링 
-
-### 역할
-1. 아이디어 도출 및 기획
-2, 모델링 러프 스케치 구현
-3. Inventor을 통해 3D 모델링 구현
-4. Inventor 기초 개념 및 지식 학습
-- https://github.com/seunghoonss/3D-Modeling-Design_Inventor
-
-
 `2. 제어계측 및 Embedded 시스템`
 
 ## 자동 제동장치를 탑재한 전동 유모차
@@ -220,6 +207,23 @@ https://user-images.githubusercontent.com/109809978/191022535-5e044557-4a89-4936
 ](https://user-images.githubusercontent.com/109809978/191028129-6301ce95-d08c-46ac-917b-b70ba5e1cf9b.mp4)
 
 
+
+`3. 3D Modeling`
+
+## 항공모함 3D CAD 설계 및 모델링
+- [ ] 2021 고교-대학연합 아이디어 공모전 '최우수상'
+
+항공기를 탑재하고 발착시키는 함선으로 바다 위의 움직이는 공항 항공모함. 갑판 위에 활주로와 함의 상층부를 평탄한 비행갑판으로 만들고, 비행기의 발착이나 격납에 장애가 되는 함교나 굴뚝같은 구조물은 가급적 현측 밖으로 나가게 설계 모델링 
+
+### 역할
+1. 아이디어 도출 및 기획
+2, 모델링 러프 스케치 구현
+3. Inventor을 통해 3D 모델링 구현
+4. Inventor 기초 개념 및 지식 학습
+- https://github.com/seunghoonss/3D-Modeling-Design_Inventor
+
+
+`4. Front End`
 
 ## 카카오맵을 활용한 지도 API Web
 - [ ] 2022 창원 빅데이터 공모전 Project
