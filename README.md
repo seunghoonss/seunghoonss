@@ -114,7 +114,7 @@
 2, 모델링 러프 스케치 구현
 3. Inventor을 통해 3D 모델링 구현
 4. Inventor 기초 개념 및 지식 학습
-https://github.com/seunghoonss/3D-Modeling-Design_Inventor
+- https://github.com/seunghoonss/3D-Modeling-Design_Inventor
 
 
 ## 카카오맵을 활용한 지도 API Web
