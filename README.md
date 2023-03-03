@@ -70,6 +70,8 @@
 
 <h2> ⚙ Projects </h2>
 
+`1. 빅데이터·AI(인공지능)`
+
 ## 천안시 수요대응형 대중교통분석 및 신규노선 제안
 - [ ] 2022 천안시 데이터 기반 시각화 아이디오 공모전 '우수상'
 
@@ -124,6 +126,59 @@
 - https://github.com/seunghoonss/3D-Modeling-Design_Inventor
 
 
+`2. 제어계측 및 Embedded 시스템`
+
+## 자동 제동장치를 탑재한 전동 유모차
+- [ ]  2022 인공지능공학부 Capstone Design Project
+
+본 발명이 이루고자 하는 기술적 과제는 유모차 사용자가 유모차 손잡이를 놓쳤을 경우에 발생할 수 있는 유모차 미끄러짐, 추락, 및 충돌과 관련된 안전사고를 방지할 수 있도록 하는 자동 제동 장치를 제공하는데 그 목적이 있다.
+ 다른 기술적 과제로는 경사로 및 평지에서의 유모차 주행을 용이하게 할 수 있도록 하는 동력 보조 장치를 제공하는데 그 목적이 있다. 또 앱을 통해 유모차를 제어 할 수 있게 하여 사용자의 편의성을 향상 시키는 것을 도모한다.
+ 
+ 
+### 주요기능
+1. 유모차 미끄러짐 방지를 위한 브레이크 제어 시스템을 구축한다.
+2. 경사면에서의 동력 보조 기능을 구현한다.
+3. 사용자의 접근성 및 편의성을 위한 앱을 개발한다.
+
+#### 작품 사진
+![image](https://user-images.githubusercontent.com/109809978/222801234-21ec19a1-0223-48ca-8087-b5b7648b52aa.png)
+
+#### 작품 도면 설계도
+![image](https://user-images.githubusercontent.com/109809978/222801287-40e84b49-dec5-44ab-972d-8b9909163b48.png)
+![image](https://user-images.githubusercontent.com/109809978/222801374-f457e717-93b5-4b9f-91b0-72edd1367ff2.png)
+
+#### 전체 구성도 - 시제품 제작
+![image](https://user-images.githubusercontent.com/109809978/222801611-b9cb00ff-b3d7-486c-9419-47c7c8a02c6f.png)
+
+#### 전체 구성도 - App 개발
+![image](https://user-images.githubusercontent.com/109809978/222801655-65b84906-50b0-44ea-b0c5-3b0e1c6787bd.png)
+
+
+**[자동 제동장치 Test 시연]**
+- 초음파 및 압력 센서로 사용자가 유모차 손잡이를 잡고 있는지 파악하여 손을 놓치면 브레이크를 작동
+- 사용자의 손이 인식이 될 경우 브레이크가 풀려서 유모차를 움직일 수 있게 함
+- 브레이크 모듈의 경우 유모차의 뒷바퀴와 앞바퀴 사이에 유압브레이크, 서보모터, 로봇팔을 부착시켜서 사용자 감지 모듈의 출력값에 따라서 로봇팔을 작동시켜 유압브레이크를 조여서 작동
+
+https://user-images.githubusercontent.com/109809978/222803053-4a114681-9d11-4b38-8d97-b9a7aba5552f.mp4
+
+**[동력보조 Test 시연]**
+- 손잡이의 압력 센서로 측정한 압력과 자이로 센서로 측정한 경사각을 고려하여 오르막길, 평길, 내리막길에서 사용자의 동력을 보조
+- 오르막길에서는 mgsin(각도)만큼의 힘을 보조해주고 내리막길에서는 -mgsin(각도)만큼의 힘을 주어서 천천히 내려가도록 함
+- 동력보조 모듈의 경우 자이로 센서를 통해 받아온 경사각을 mgsin(θ)값으로 변환하여 뒷바퀴에 달린 DC 모터에 전압을 인가하여 동력보조를 수행
+
+https://user-images.githubusercontent.com/109809978/222803026-7c22dd65-3a7c-457b-976d-de22a1b6ff9f.mp4
+
+
+**[동력보조 Test 시연]**
+- 앱 연동기술은 소켓 또는 블루투스 통신을 활용하여 사용자가 유모차의 제어 기능을 컨트롤 할 수 있게 함
+- 전동 보조기술도 사람마다 이동속도가 다르니 자신이 원하는 속도를 설정해서 보조 기능을 원활하게 수행 할 수 있게 함
+- 유모차 조작의 편의성을 위해 제작한 어플의 구성도이다. 위 그림에 보이듯이 브레이크 on/off, 동력 보조 on/off 및 속력 단계 조절, LED on/off, 기타(정보, 주행 내역, 설정, 문의하기) 기능을 구현
+
+![image](https://user-images.githubusercontent.com/109809978/222802104-10c67758-eab7-4b4b-a7d7-1a359415a293.png)
+![image](https://user-images.githubusercontent.com/109809978/222802187-46c5d3c8-6028-495e-a121-d629d5c14416.png)
+
+
+
 ## Arduino를 이용한 음주운전 방지 자율주행 RC Car
 - [ ]  2021 인공지능공학부 Adventure Design Project
 
@@ -162,6 +217,7 @@ https://user-images.githubusercontent.com/109809978/191022535-5e044557-4a89-4936
 
 [https://user-images.githubusercontent.com/109809978/191027793-7b2ae519-839b-45e9-a9f6-481dff26ccbe.mp4
 ](https://user-images.githubusercontent.com/109809978/191028129-6301ce95-d08c-46ac-917b-b70ba5e1cf9b.mp4)
+
 
 
 ## 카카오맵을 활용한 지도 API Web
