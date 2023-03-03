@@ -54,8 +54,7 @@
 - College Student ICT Supporters of Busan Information Promotion Agency
 
 
-<h2> ![image](https://user-images.githubusercontent.com/109809978/222797589-c56c4142-c64b-4a9e-832a-4b5c54e93db7.png)
- Award </h2>
+<h2> 🏆 Award </h2>
 
 - 2021 3D Modeling Design Division of the Idea Contest 'The Grand Prize'
 - 2022 Student Big Data Analysis Competition 'Encouragement Award'
