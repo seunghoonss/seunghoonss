@@ -59,7 +59,7 @@
 
 - 2021 3D Modeling Design Division of the Idea Contest 'The Grand Prize'
 - 2022 Student Big Data Analysis Competition 'Encouragement Award'
-- 2022 Cheonan City Data-Based Visualization Idea Gong M-Joner 'Excellent Award'
+- 2022 Cheonan City Data-Based Visualization Idea Contest 'Excellent Award'
 - 2023 Social Welfare Plus Digitor Technology Idea Contest 'Excellent Award'
 
 
