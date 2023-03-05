@@ -7,7 +7,7 @@
 <a href="mailto:sshssh3961@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=minutemailer&logoColor=white&link="/></a>
 <a href="mailto:ssh3962@g.kmou.ac.k"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
 <a href="https://instagram.com/gnstls_?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="/></a>
-<a href="https://www.notion.so/AI-04a3a9b6863944ff8742c4e91e0fc653?pvs=="><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=instagram&logoColor=white&link="/></a>
+<a href="https://www.notion.so/AI-04a3a9b6863944ff8742c4e91e0fc653?pvs=="><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=instagram&logoColor=white&link="/></a>
 
 
 <h2> 🛠 Skills </h2>
