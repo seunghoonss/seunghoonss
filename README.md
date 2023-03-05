@@ -199,7 +199,7 @@ https://user-images.githubusercontent.com/109809978/191022535-5e044557-4a89-4936
 
 
 ## ATmega128A를 이용한 Character LCD
-- [ ] 2021 인공지능공학부 Embedded system Project 'A+'
+- [ ] 2022 인공지능공학부 Embedded system Project 'A+'
 
 ### 주요기능
 1. 광고문 출력 모드
