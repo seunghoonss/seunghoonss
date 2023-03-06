@@ -101,7 +101,7 @@
 2. SQL쿼리를 통해 데이터 취합
 3. AI 모델 생성을 위한 적용기술 개발
 4. 분석 알고리즘 및 방법론 구현
-5. Deep Learing Model 프로그래밍
+5. Deep Learning Model 프로그래밍
 
 ![image](https://user-images.githubusercontent.com/109809978/222812298-818dd903-f026-45df-b74a-9923386c0f7d.png)
 
