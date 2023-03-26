@@ -199,7 +199,7 @@ https://user-images.githubusercontent.com/109809978/191022535-5e044557-4a89-4936
 
 
 
-## ATmega128A를 이용한 Character LCD
+## ATmega128A를 이용한 스마트 Character LCD
 - [ ] 2022 인공지능공학부 Embedded System Project 'A+'
 
 ### 주요기능
