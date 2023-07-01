@@ -269,35 +269,6 @@ https://drive.google.com/file/d/1KQ8a6HUdbLHYNm2pgGH0PB9xsjFL_fjk/view?usp=share
 https://docs.google.com/presentation/d/1hDIeiVat7yY8QOsn_YdSlOxfI3zBr5Ln/edit?usp=share_link&ouid=107230259217894772267&rtpof=true&sd=true
 
 
-## 딥러닝을 활용한 발달장애 조기진단 AI 시스템
-- [ ] 2023 사회복지 더하기 디지털기술 아이디어 공모전 '우수상'
-
-매년 발달장애인의 수가 지속적으로 증가하며 코로나 이후로 아동들의 발달지연 및 발달장애 발견의 비율이 높아진다는 사회적 문제를 접하게 되었다. 따라서 AI 시스템을 통해 조기진단 및 치료를 하여 이들이 더 나은 삶을 살아가길 바라며 아이디어 제안
-
-### 역할
-1. 아이디어 도출 및 기획
-2. SQL쿼리를 통해 데이터 취합
-3. AI 모델 생성을 위한 적용기술 개발
-4. 분석 알고리즘 및 방법론 구현
-5. Deep Learning Model 프로그래밍
-
-![image](https://user-images.githubusercontent.com/109809978/222812298-818dd903-f026-45df-b74a-9923386c0f7d.png)
-
-
-## 유성구 내 MZ세대 소비량에 영향을 끼치는 요인 분석 및 경제 활성화 방향 제시
-- [ ] 2022년도 학생 빅데이터 분석 경진대회 '장려상'
-
-유성구를 MZ세대 소비 경향 및 규모 분석 배경으로 설정, 지역사회 주거 인구의 소득과 소비 및 지역 특성의 사업체와 관련된 법부문의 최신자료를 연계하여 빅데이터 분석
-
-### 역할
-1. 아이디어 도출 및 기획
-2. SQL쿼리를 통해 데이터 취합
-3. 분석 자료 구성 및 전처리
-4. 분석 알고리즘 및 방법론 구현
-5. MAchine Learning Model 프로그래밍
-
-![image](https://user-images.githubusercontent.com/109809978/222811711-508c3895-909f-4221-8d5d-ed15d8105cf5.png)
-
 
 `2. AI(인공지능)`
 
@@ -463,6 +434,8 @@ https://user-images.githubusercontent.com/109809978/222803026-7c22dd65-3a7c-457b
 ![image](https://user-images.githubusercontent.com/109809978/222802104-10c67758-eab7-4b4b-a7d7-1a359415a293.png)
 ![image](https://user-images.githubusercontent.com/109809978/222802187-46c5d3c8-6028-495e-a121-d629d5c14416.png)
 
+https://drive.google.com/file/d/1ZBKXu9VpCvvEl5ld3arFJTycggalLgSj/view?usp=sharing
+https://drive.google.com/file/d/1zzgFCUNgYivG67dBnfsuRRBWEP_D3Vcc/view?usp=sharing
 
 
 ## Arduino를 이용한 음주운전 방지 자율주행 RC Car
