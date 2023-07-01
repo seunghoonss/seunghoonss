@@ -67,8 +67,9 @@
 
 <h2> ⚖ Patent </h2>
 
-- 국문 : 유모차용 자동제동과 동력보조 장치 및 모바일 앱 
-- 영문 : Automatic Braking And Power Assist Device for Stroller With Mobile App
+- 국문 : 자동제동 및 동력보조 수단을 구비한 스마트 유모차
+- 영문 : Smart Stroller with Automatic Braking and Power Auxiliary Means
+- 출원 번호 : 10-2023-0025833
 
 
 <h2> ⚙ Projects </h2>
