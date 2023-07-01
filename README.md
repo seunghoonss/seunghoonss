@@ -266,8 +266,7 @@ https://drive.google.com/file/d/1KQ8a6HUdbLHYNm2pgGH0PB9xsjFL_fjk/view?usp=share
 
 ![image](https://github.com/seunghoonss/seunghoonss/assets/109809978/8025ddeb-5f0f-4e7c-bf4d-dcd91595502b)
 
-https://docs.google.com/presentation/d/1hDIeiVat7yY8QOsn_YdSlOxfI3zBr5Ln/edit?usp=share_link&ouid=107230259217894772267&rtpof=true&sd=true
-
+https://drive.google.com/file/d/1Zcr1uPZjnVCprCUntb8NNKonlrdssaox/view?usp=sharing
 
 
 `2. AI(인공지능)`
