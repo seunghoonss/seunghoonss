@@ -58,10 +58,11 @@
 
 <h2> 🏆 Award </h2>
 
-- 2021 3D Modeling Design Division of the Idea Contest 'The Grand Prize'
+- 2021 3D Modeling Design Division of the Idea Contest 'Best Award'
 - 2022 Student Big Data Analysis Competition 'Encouragement Award'
 - 2022 Cheonan City Data-Based Visualization Idea Contest 'Excellent Award'
 - 2023 Social Welfare Plus Digitor Technology Idea Contest 'Excellent Award'
+- Gwangjin-gu Big Data Analysis Contest 'Best Award'
 
 
 <h2> ⚖ Patent </h2>
