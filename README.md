@@ -46,7 +46,7 @@
 ![YouTube Video Views](https://img.shields.io/youtube/views/yfIossqi6xc?style=social)
 ![YouTube Video Comments](https://img.shields.io/youtube/comments/p8sBwfjjWaM?style=social)
 
-
+<!--
 <h2> 🎓 Activities </h2>
 
 - Big Data Analytics Assoc. of Data Analysis Foundation
@@ -518,3 +518,5 @@ https://user-images.githubusercontent.com/109809978/191022535-5e044557-4a89-4936
 ![image](https://user-images.githubusercontent.com/109809978/183011757-cc2f5cf8-5195-48ed-8f90-568ee43c10da.png)
 
 https://seunghoon.neocities.org/
+
+-->
